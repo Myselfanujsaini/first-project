@@ -10,3 +10,5 @@ function sum (a, b){
 
 sum(3,5);
 myNameAnujSaini();
+
+console.log("hi");
